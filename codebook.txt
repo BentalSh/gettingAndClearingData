@@ -1,0 +1,3 @@
+labels are the sitatuion measured, i.e. LAYING, STANDING, etc...
+subject is the subject measured, code which is an integer
+everything else is the mean of the original measurements, and hence as the same name.
